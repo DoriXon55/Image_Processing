@@ -1,4 +1,4 @@
-# Image Processing - Laboratory Project
+# Image Processing - Laboratory 
 
 ## Description
 This repository contains implementations of various image processing techniques using OpenCV library. The project was developed as part of university laboratory coursework in Image Processing.
